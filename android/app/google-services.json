@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "559682777044",
+    "firebase_url": "https://blinkpick-by-mdev-team-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "blinkpick-by-mdev-team",
+    "storage_bucket": "blinkpick-by-mdev-team.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559682777044:android:92732b19bd582be6fd7041",
+        "android_client_info": {
+          "package_name": "com.blinkpick.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADXhM0uvoL7xZsuhucqN6sDPaGbtOVJ_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559682777044:android:607ec7b830ac18dffd7041",
+        "android_client_info": {
+          "package_name": "com.blinkpick.user"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADXhM0uvoL7xZsuhucqN6sDPaGbtOVJ_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
